@@ -8,3 +8,4 @@ styling background color:      background-color: (specify color);
 adjust font size:              font-size: x(px);
 adjust font color:             color: (specify color);
 adjust font style:             font-family: font style
+changes the cursor style to pointer when element is hovered over: cursor:pointer;
